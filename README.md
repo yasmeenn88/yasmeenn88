@@ -23,8 +23,8 @@ Here are some ideas to get you started:
 **Data Scientist | Machine Learning Engineer | Bio-AI Explorer**  
 Passionate about solving real-world problems with intelligent data-driven solutions.
 
-- Email: [yasmeenwael8805@gmail.com](mailto:yasmeenwael8805@gmail.com)  
-- LinkedIn: [linkedin.com/in/yasmeenwael](https://www.linkedin.com/in/yasmeenwael)
+- ***Email***: [yasmeenwael8805@gmail.com](mailto:yasmeenwael8805@gmail.com)  
+- ***LinkedIn***: [linkedin.com/in/yasmeenwael](https://www.linkedin.com/in/yasmeenwael)
 
 
 ---
