@@ -76,6 +76,19 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 
 </div>
 
+<div style="margin-bottom: 40px;">
+  <h3>
+    <a href="https://github.com/yasmeenn88/Face-Recognition-Attendance-System" target="_blank" style="color: #0066cc; text-decoration: underline;">
+      Face Recognition Attendance System
+    </a>
+  </h3>
+  <p style="font-size: 16px; line-height: 1.6;">
+    This desktop application automates attendance tracking using <strong>real-time face recognition</strong>.
+    Built with <strong>Python</strong>, <strong>OpenCV</strong>, and <strong>face_recognition</strong>, it captures live video,
+    recognizes known faces, and logs attendance in a CSV file. The interface is designed with <strong>Tkinter</strong> for ease of use,
+    making it ideal for classrooms or workplace settings.
+  </p>
+</div>
 
 
 ---
