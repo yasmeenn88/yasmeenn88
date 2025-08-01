@@ -61,14 +61,22 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 
 
 ---
-### 🎬 Movie Recommendation System  
-A content-based movie recommender using cosine similarity on movie metadata.  
-Built with Python and Scikit-learn.
-
-[🔗 GitHub Repo](https://github.com/yasmeenn88/MOVIES_RECOMMENDATION_SYSTEM)
-
-![demo1](https://raw.githubusercontent.com/yasmeenn88/MOVIES_RECOMMENDATION_SYSTEM/main/assets/demo1.png)
-![demo2](https://raw.githubusercontent.com/yasmeenn88/MOVIES_RECOMMENDATION_SYSTEM/main/assets/demo2.png)
+<div style="display: flex; gap: 20px; margin-bottom: 40px;">
+  <img src="assets/demo1.png" alt="Movie Recommendation" style="width: 300px; height: auto; border-radius: 8px;">
+  <div>
+    <h3>
+      <a href="https://github.com/yasmeenn88/MOVIES_RECOMMENDATION_SYSTEM" target="_blank" style="color: #0066cc; text-decoration: underline;">
+        Movie Recommendation System
+      </a>
+    </h3>
+    <p style="font-size: 16px; line-height: 1.6;">
+      In this project, I built a content-based recommender that suggests similar movies based on their metadata.
+      It uses <strong>TF-IDF vectorization</strong> and <strong>cosine similarity</strong> to find movies with related
+      genres, cast, and overviews. The app is built with <strong>Python</strong>, <strong>Pandas</strong>, and
+      <strong>Scikit-learn</strong>, with a clean interface for users to search and discover recommendations instantly.
+    </p>
+  </div>
+</div>
 
 
 ---
