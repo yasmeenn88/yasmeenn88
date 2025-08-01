@@ -61,6 +61,14 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 
 
 ---
+### 🎬 Movie Recommendation System  
+A content-based movie recommender using cosine similarity on movie metadata.  
+Built with Python and Scikit-learn.
+
+[🔗 GitHub Repo](https://github.com/yasmeenn88/MOVIES_RECOMMENDATION_SYSTEM)
+
+![demo1](https://raw.githubusercontent.com/yasmeenn88/MOVIES_RECOMMENDATION_SYSTEM/main/assets/demo1.png)
+![demo2](https://raw.githubusercontent.com/yasmeenn88/MOVIES_RECOMMENDATION_SYSTEM/main/assets/demo2.png)
 
 
 ---
