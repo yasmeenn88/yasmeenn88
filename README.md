@@ -23,6 +23,8 @@ Here are some ideas to get you started:
 **Data Scientist | Machine Learning Engineer | Bio-AI Explorer**  
 Passionate about solving real-world problems with intelligent data-driven solutions.
 
+- Email: [yasmeenwael8805@gmail.com](mailto:yasmeenwael8805@gmail.com)  
+- LinkedIn: [linkedin.com/in/yasmeenwael](https://www.linkedin.com/in/yasmeenwael)
 
 
 ---
@@ -60,15 +62,5 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 
 ---
 
-### 🛍️ Customer Segmentation (E-commerce)
-
-> Clustering customer behavior data to improve marketing strategy and personalize user experience.
-
-- 🧠 **Tech Stack:** Python, Pandas, Matplotlib, Scikit-learn (KMeans)
-- 📊 **Skills:** EDA, Clustering, Data Preprocessing, Visualization
-- 📂 **Status:** Completed
-- 🔗 [GitHub Repository](https://github.com/yasmeenn88/customer-segmentation)
-
-<img src="https://raw.githubusercontent.com/yasmeenn88/customer-segmentation/main/images/demo.png" width="600"/>
 
 ---
