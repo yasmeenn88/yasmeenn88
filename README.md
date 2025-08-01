@@ -16,3 +16,9 @@ Here are some ideas to get you started:
 
 -->
 
+### 🐍 Programming & Data
+
+<img src="https://img.icons8.com/color/48/000000/python.png" width="40"/> 
+<img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80"/>
+<img src="https://img.icons8.com/ios-filled/50/1A1A1A/sql.png" width="40"/>
