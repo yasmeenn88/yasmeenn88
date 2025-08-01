@@ -61,22 +61,25 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 
 
 ---
-<div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <img src="[MOVIES_RECOMMENDATION_SYSTEM/assets/demo1.png](https://github.com/yasmeenn88/MOVIES_RECOMMENDATION_SYSTEM/blob/main/assets/demo1.png)" alt="Movie Recommendation" style="width: 300px; height: auto; border-radius: 8px;">
-  <div>
-    <h3>
-      <a href="https://github.com/yasmeenn88/MOVIES_RECOMMENDATION_SYSTEM" target="_blank" style="color: #0066cc; text-decoration: underline;">
-        Movie Recommendation System
-      </a>
-    </h3>
-    <p style="font-size: 16px; line-height: 1.6;">
-      In this project, I built a content-based recommender that suggests similar movies based on their metadata.
-      It uses <strong>TF-IDF vectorization</strong> and <strong>cosine similarity</strong> to find movies with related
-      genres, cast, and overviews. The app is built with <strong>Python</strong>, <strong>Pandas</strong>, and
-      <strong>Scikit-learn</strong>, with a clean interface for users to search and discover recommendations instantly.
-    </p>
-  </div>
+<div style="margin-bottom: 40px;">
+  <h3>
+    <a href="https://github.com/yasmeenn88/MOVIES_RECOMMENDATION_SYSTEM" target="_blank" style="color: #0066cc; text-decoration: underline;">
+      Movies Recommendation System
+    </a>
+  </h3>
+  <p style="font-size: 16px; line-height: 1.6;">
+    A simple yet effective content-based movie recommendation system built with <strong>Python</strong>, 
+    <strong>Scikit-learn</strong>, and <strong>Streamlit</strong>. The system suggests movies based on 
+    <em>title, overview, keywords, and genres</em>, using <strong>TF-IDF vectorization</strong> and 
+    <strong>cosine similarity</strong> to identify and recommend similar titles.
+  </p>
+  <p style="font-size: 16px; line-height: 1.6;">
+    A user enters a movie name, and the app returns the top 10 most relevant recommendations using data from the 
+    <a href="https://www.kaggle.com/datasets" target="_blank">TMDB Movies Dataset 2023</a>. The project also features a 
+    clean Streamlit interface for interactive exploration.
+  </p>
 </div>
+
 
 
 ---
