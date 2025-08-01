@@ -56,3 +56,19 @@ Passionate about solving real-world problems with intelligent data-driven soluti
   <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" />
   <img src="https://img.shields.io/badge/Time%20Series%20Analysis-0066CC?style=for-the-badge&logo=clockify&logoColor=white" />
 </p>
+
+
+---
+
+### 🛍️ Customer Segmentation (E-commerce)
+
+> Clustering customer behavior data to improve marketing strategy and personalize user experience.
+
+- 🧠 **Tech Stack:** Python, Pandas, Matplotlib, Scikit-learn (KMeans)
+- 📊 **Skills:** EDA, Clustering, Data Preprocessing, Visualization
+- 📂 **Status:** Completed
+- 🔗 [GitHub Repository](https://github.com/yasmeenn88/customer-segmentation)
+
+<img src="https://raw.githubusercontent.com/yasmeenn88/customer-segmentation/main/images/demo.png" width="600"/>
+
+---
