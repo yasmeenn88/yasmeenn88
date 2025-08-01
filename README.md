@@ -62,7 +62,7 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 
 ---
 <div style="display: flex; gap: 20px; margin-bottom: 40px;">
-  <img src="assets/demo1.png" alt="Movie Recommendation" style="width: 300px; height: auto; border-radius: 8px;">
+  <img src="MOVIES_RECOMMENDATION_SYSTEM/assets/demo1.png" alt="Movie Recommendation" style="width: 300px; height: auto; border-radius: 8px;">
   <div>
     <h3>
       <a href="https://github.com/yasmeenn88/MOVIES_RECOMMENDATION_SYSTEM" target="_blank" style="color: #0066cc; text-decoration: underline;">
