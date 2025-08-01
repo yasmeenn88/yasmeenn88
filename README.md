@@ -52,8 +52,8 @@ I thrive on solving challenges using intelligent systems and love applying AI to
 ### 🤖 Machine Learning & Deep Learning
 ![Scikit-learn](https://img.shields.io/badge/-Scikit--Learn-F7931E?style=flat&logo=scikit-learn)
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow)
-![OpenCV](https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv)
-![YOLO](https://img.shields.io/badge/-YOLO-000000?style=flat)
+![OpenCV]([https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat&logo=opencv](https://images.app.goo.gl/FC1Cz868onL6WNYK6))
+![YOLO]([https://img.shields.io/badge/-YOLO-000000?style=flat](https://images.app.goo.gl/qSejhjhPdTKqXP2S9))
 
 ---
 
