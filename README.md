@@ -75,6 +75,7 @@ Passionate about solving real-world problems with intelligent data-driven soluti
   </p>
 
 </div>
+--- 
 
 <div style="margin-bottom: 40px;">
   <h3>
@@ -85,10 +86,35 @@ Passionate about solving real-world problems with intelligent data-driven soluti
   <p style="font-size: 16px; line-height: 1.6;">
     This desktop application automates attendance tracking using <strong>real-time face recognition</strong>.
     Built with <strong>Python</strong>, <strong>OpenCV</strong>, and <strong>face_recognition</strong>, it captures live video,
-    recognizes known faces, and logs attendance in a CSV file. The interface is designed with <strong>Tkinter</strong> for ease of use,
+    recognizes known faces, and logs attendance in a excel file. The interface is designed with <strong>Tkinter</strong> for ease of use,
     making it ideal for classrooms or workplace settings.
   </p>
 </div>
 
+---
+<div style="margin-bottom: 40px;">
+  <h3>
+    <a href="https://github.com/yasmeenn88/AI-Driven-Employee-Performance-Attrition-Analyzer" target="_blank" style="color: #0066cc; text-decoration: underline;">
+      Employee Attrition & Performance Predictor
+    </a>
+  </h3>
+  <p style="font-size: 16px; line-height: 1.6;">
+    A predictive ML tool for analyzing employee attrition and performance using HR metrics. Built with <strong>Python</strong> and <strong>Scikit-learn</strong> using <strong>ML Algorithms</strong> .
+  </p>
+</div>
 
+---
+
+<div style="margin-bottom: 40px;">
+  <h3>
+    <a href="https://github.com/yasmeenn88/Global-Superstore-Dataset-Analysis-Power-BI-Dashboard" target="_blank" style="color: #0066cc; text-decoration: underline;">
+      Global Superstore Dashboard – Power BI Analysis
+    </a>
+  </h3>
+  <p style="font-size: 16px; line-height: 1.6;">
+    Developed an interactive <strong>Power BI dashboard</strong> to analyze global sales, profit, and customer behavior.
+    Features KPI cards, charts, and slicers to track performance across segments, regions, and time. Built using
+    <strong>DAX</strong>, <strong>Power Query</strong>, and custom themes to support strategic insights.
+  </p>
+</div>
 ---
