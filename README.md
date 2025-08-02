@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-## Yasmeen Wael
+# ***I am Yasmeen Wael***
 
 **Data Scientist | Machine Learning Engineer | Bio-AI Explorer**  
 Passionate about solving real-world problems with intelligent data-driven solutions.
