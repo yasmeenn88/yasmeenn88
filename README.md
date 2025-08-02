@@ -65,7 +65,7 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 <div style="margin-bottom: 40px;">
   <h3>
     <a href="https://github.com/yasmeenn88/MOVIES_RECOMMENDATION_SYSTEM" target="_blank" style="color: #0066cc; text-decoration: underline;">
-      Movies Recommendation System
+     🔗 Movies Recommendation System
     </a>
   </h3>
   <p style="font-size: 16px; line-height: 1.6;">
@@ -82,7 +82,7 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 <div style="margin-bottom: 40px;">
   <h3>
     <a href="https://github.com/yasmeenn88/Face-Recognition-Attendance-System" target="_blank" style="color: #0066cc; text-decoration: underline;">
-      Face Recognition Attendance System
+     🔗 Face Recognition Attendance System
     </a>
   </h3>
   <p style="font-size: 16px; line-height: 1.6;">
@@ -94,10 +94,11 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 </div>
 
 ---
+
 <div style="margin-bottom: 40px;">
   <h3>
     <a href="https://github.com/yasmeenn88/AI-Driven-Employee-Performance-Attrition-Analyzer" target="_blank" style="color: #0066cc; text-decoration: underline;">
-      Employee Attrition & Performance Predictor
+     🔗 Employee Attrition & Performance Predictor
     </a>
   </h3>
   <p style="font-size: 16px; line-height: 1.6;">
@@ -119,11 +120,13 @@ Passionate about solving real-world problems with intelligent data-driven soluti
     <strong>DAX</strong>, <strong>Power Query</strong>, and custom themes to support strategic insights.
   </p>
 </div>
+
 ---
+
 <div style="margin-bottom: 40px;">
   <h3>
     <a href="https://github.com/yasmeenn88/California-Housing-Market-Analysis-Price-Prediction/tree/main" target="_blank" style="color: #0066cc; text-decoration: underline;">
-      California Housing Price Prediction
+     🔗 California Housing Price Prediction
     </a>
   </h3>
   <p style="font-size: 16px; line-height: 1.6;">
@@ -131,4 +134,5 @@ Passionate about solving real-world problems with intelligent data-driven soluti
     Included data cleaning, visualization, and model evaluation with Python and Scikit-learn.
   </p>
 </div>
+
 ---
