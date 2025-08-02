@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 <!--
 **yasmeenn88/yasmeenn88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 
 
 
-# ***I am Yasmeen Wael***
+## ***I am Yasmeen Wael***
 
 **Data Scientist | Machine Learning Engineer | Bio-AI Explorer**  
 Passionate about solving real-world problems with intelligent data-driven solutions.
