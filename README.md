@@ -29,7 +29,7 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 
 ---
 
-## **Skills**
+# **Skills**
 
 <p align="center">
   <!-- Core Languages & Libraries -->
