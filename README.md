@@ -61,6 +61,7 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 
 
 ---
+
 <div style="margin-bottom: 40px;">
   <h3>
     <a href="https://github.com/yasmeenn88/MOVIES_RECOMMENDATION_SYSTEM" target="_blank" style="color: #0066cc; text-decoration: underline;">
@@ -75,6 +76,7 @@ Passionate about solving real-world problems with intelligent data-driven soluti
   </p>
 
 </div>
+
 --- 
 
 <div style="margin-bottom: 40px;">
@@ -108,13 +110,25 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 <div style="margin-bottom: 40px;">
   <h3>
     <a href="https://github.com/yasmeenn88/Global-Superstore-Dataset-Analysis-Power-BI-Dashboard" target="_blank" style="color: #0066cc; text-decoration: underline;">
-      Global Superstore Dashboard – Power BI Analysis
+      🔗 Global Superstore Dashboard – Power BI Analysis
     </a>
   </h3>
   <p style="font-size: 16px; line-height: 1.6;">
     Developed an interactive <strong>Power BI dashboard</strong> to analyze global sales, profit, and customer behavior.
     Features KPI cards, charts, and slicers to track performance across segments, regions, and time. Built using
     <strong>DAX</strong>, <strong>Power Query</strong>, and custom themes to support strategic insights.
+  </p>
+</div>
+---
+<div style="margin-bottom: 40px;">
+  <h3>
+    <a href="https://github.com/yasmeenn88/California-Housing-Market-Analysis-Price-Prediction/tree/main" target="_blank" style="color: #0066cc; text-decoration: underline;">
+      California Housing Price Prediction
+    </a>
+  </h3>
+  <p style="font-size: 16px; line-height: 1.6;">
+    Predicted California housing prices using machine learning regression models. 
+    Included data cleaning, visualization, and model evaluation with Python and Scikit-learn.
   </p>
 </div>
 ---
