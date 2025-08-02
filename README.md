@@ -59,6 +59,9 @@ Passionate about solving real-world problems with intelligent data-driven soluti
   <img src="https://img.shields.io/badge/Time%20Series%20Analysis-0066CC?style=for-the-badge&logo=clockify&logoColor=white" />
 </p>
 
+---
+
+# **Projects**
 
 ---
 
