@@ -130,7 +130,7 @@ Passionate about solving real-world problems with intelligent data-driven soluti
     </a>
   </h3>
   <p style="font-size: 16px; line-height: 1.6;">
-    Predicted California housing prices using machine learning regression models. 
+    Predicted California housing prices using <strong>machine learning regression models</strong>. 
     Included data cleaning, visualization, and model evaluation with Python and Scikit-learn.
   </p>
 </div>
