@@ -84,6 +84,19 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 
 <div style="margin-bottom: 40px;">
   <h3>
+    <a href="https://github.com/yasmeenn88/Real-Time-Fire-Detection-System" target="_blank" style="color: #0066cc; text-decoration: underline;">
+     🔗 Real-Time Fire Detection System
+    </a>
+  </h3>
+  <p style="font-size: 16px; line-height: 1.6;">
+    Detected fire in images, videos, and real-time camera feeds using a trained <strong>YOLOv8</strong> model.
+    Includes computer vision inference and optional Telegram alerts with captured frames when fire is detected.
+  </p>
+</div>
+
+---
+<div style="margin-bottom: 40px;">
+  <h3>
     <a href="https://github.com/yasmeenn88/Face-Recognition-Attendance-System" target="_blank" style="color: #0066cc; text-decoration: underline;">
      🔗 Face Recognition Attendance System
     </a>
@@ -111,6 +124,22 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 </div>
 
 ---
+
+<div style="margin-bottom: 40px;">
+  <h3>
+    <a href="https://github.com/yasmeenn88/RAG-Enhanced-ML-Knowledge" target="_blank" style="color: #0066cc; text-decoration: underline;">
+     🔗 RAG-Enhanced ML Knowledge
+    </a>
+  </h3>
+  <p style="font-size: 16px; line-height: 1.6;">
+    Built a <strong>Retrieval-Augmented Generation (RAG)</strong> pipeline to answer questions from 
+    "Machine Learning for Absolute Beginners" using embeddings and a language model. 
+    Includes PDF chunking, vector storage (FAISS/NumPy), and a LangChain-based retriever.
+  </p>
+</div>
+
+---
+
 
 <div style="margin-bottom: 40px;">
   <h3>
