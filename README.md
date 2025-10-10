@@ -100,6 +100,20 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 
 <div style="margin-bottom: 40px;">
   <h3>
+    <a href="https://github.com/yasmeenn88/Language-Detection/tree/main" target="_blank" style="color: #0066cc; text-decoration: underline;">
+     🔗 Language Detection
+    </a>
+  </h3>
+  <p style="font-size: 16px; line-height: 1.6;">
+    Classified text language using <strong>TF-IDF</strong> features and classic <strong>scikit-learn</strong> models.
+    Included data cleaning, visualization, and evaluation with per-class reports.
+  </p>
+</div>
+
+---
+
+<div style="margin-bottom: 40px;">
+  <h3>
     <a href="https://github.com/yasmeenn88/AI-Driven-Employee-Performance-Attrition-Analyzer" target="_blank" style="color: #0066cc; text-decoration: underline;">
      🔗 Employee Attrition & Performance Predictor
     </a>
