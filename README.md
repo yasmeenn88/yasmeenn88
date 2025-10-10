@@ -114,7 +114,7 @@ Passionate about solving real-world problems with intelligent data-driven soluti
 <div style="margin-bottom: 40px;">
   <h3>
     <a href="https://github.com/yasmeenn88/Language-Detection/tree/main" target="_blank" style="color: #0066cc; text-decoration: underline;">
-     🔗 Language Detection
+     🔗 Language Detection System
     </a>
   </h3>
   <p style="font-size: 16px; line-height: 1.6;">
